@@ -1,0 +1,178 @@
+Added Component: Designator=D1(3.2X1.6X1.1)
+Added Component: Designator=D2(3.2X1.6X1.1)
+Added Component: Designator=D3(3.2X1.6X1.1)
+Added Component: Designator=D4(3.2X1.6X1.1)
+Added Component: Designator=D5(3.2X1.6X1.1)
+Added Component: Designator=D6(3.2X1.6X1.1)
+Added Component: Designator=D7(3.2X1.6X1.1)
+Added Component: Designator=D8(3.2X1.6X1.1)
+Added Component: Designator=D9(3.2X1.6X1.1)
+Added Component: Designator=D10(3.2X1.6X1.1)
+Added Net: Name=+3V3_ST_LINK
+Added Net: Name=+3V3
+Added Net: Name=+5V
+Added Net: Name=AGND
+Added Net: Name=AIN_1
+Added Net: Name=AVDD
+Added Net: Name=BOOT0
+Added Net: Name=E5V
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=GND Pin=D9-2
+Added Pin To Net: NetName=GND Pin=D10-2
+Added Net: Name=GND
+Added Net: Name=LED_STLINK
+Added Net: Name=MCO
+Added Net: Name=NetB1_2
+Added Net: Name=NetB1_3
+Added Net: Name=NetC3_1
+Added Net: Name=NetC5_2
+Added Net: Name=NetC8_2
+Added Net: Name=NetC15_1
+Added Net: Name=NetC17_1
+Added Net: Name=NetC17_2
+Added Net: Name=NetC21_1
+Added Net: Name=NetC22_1
+Added Net: Name=NetC23_1
+Added Net: Name=NetC24_1
+Added Net: Name=NetC25_1
+Added Net: Name=NetC26_1
+Added Net: Name=NetC29_1
+Added Net: Name=NetC30_2
+Added Net: Name=NetCN1_1
+Added Net: Name=NetCN1_2
+Added Net: Name=NetCN1_4
+Added Net: Name=NetCN1_5
+Added Net: Name=NetCN1_6
+Added Net: Name=NetCN2_1
+Added Net: Name=NetCN2_2
+Added Net: Name=NetCN2_3
+Added Net: Name=NetCN2_4
+Added Net: Name=NetCN6_2
+Added Net: Name=NetCN6_3
+Added Net: Name=NetCN6_4
+Added Net: Name=NetD11_2
+Added Net: Name=NetJP1_2
+Added Net: Name=NetJP2_2
+Added Net: Name=NetJP3_1
+Added Net: Name=NetL1_2
+Added Net: Name=NetLD1_2
+Added Net: Name=NetLD1_3
+Added Net: Name=NetLD1_4
+Added Net: Name=NetLD2_1
+Added Net: Name=NetR3_2
+Added Net: Name=NetR4_2
+Added Net: Name=NetR7_2
+Added Net: Name=NetR13_1
+Added Net: Name=NetR21_1
+Added Net: Name=NetR24_2
+Added Net: Name=NetSB17_1
+Added Net: Name=NetSB22_1
+Added Net: Name=NetSB24_1
+Added Net: Name=NetSB26_1
+Added Net: Name=NetSB28_1
+Added Net: Name=NetSB35_2
+Added Net: Name=NetSB36_2
+Added Net: Name=NetSB41_1
+Added Net: Name=NRST
+Added Net: Name=OSC_IN
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=PA0 Pin=D1-1
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=D2-1
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=D3-1
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=D4-1
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=D5-1
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=D6-1
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=D7-1
+Added Pin To Net: NetName=PA6 Pin=D9-1
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=D8-1
+Added Pin To Net: NetName=PA7 Pin=D10-1
+Added Net: Name=PA7
+Added Net: Name=PA8
+Added Net: Name=PA9
+Added Net: Name=PA10
+Added Net: Name=PA11
+Added Net: Name=PA12
+Added Net: Name=PA13
+Added Net: Name=PA14
+Added Net: Name=PA15
+Added Net: Name=PB0
+Added Net: Name=PB1
+Added Net: Name=PB2
+Added Net: Name=PB3
+Added Net: Name=PB4
+Added Net: Name=PB5
+Added Net: Name=PB6
+Added Net: Name=PB7
+Added Net: Name=PB8
+Added Net: Name=PB9
+Added Net: Name=PB10
+Added Net: Name=PB11
+Added Net: Name=PB12
+Added Net: Name=PB13
+Added Net: Name=PB14
+Added Net: Name=PB15
+Added Net: Name=PC0
+Added Net: Name=PC1
+Added Net: Name=PC2
+Added Net: Name=PC3
+Added Net: Name=PC4
+Added Net: Name=PC5
+Added Net: Name=PC6
+Added Net: Name=PC7
+Added Net: Name=PC8
+Added Net: Name=PC9
+Added Net: Name=PC10
+Added Net: Name=PC11
+Added Net: Name=PC12
+Added Net: Name=PC13
+Added Net: Name=PC14
+Added Net: Name=PC15
+Added Net: Name=PD2
+Added Net: Name=PD8
+Added Net: Name=PF0
+Added Net: Name=PF1
+Added Net: Name=PF4
+Added Net: Name=PF5
+Added Net: Name=PF6
+Added Net: Name=PF7
+Added Net: Name=PWR_ENN
+Added Net: Name=STLINK_RX
+Added Net: Name=STLINK_TX
+Added Net: Name=STLK_RX
+Added Net: Name=STLK_TX
+Added Net: Name=STM_JTCK
+Added Net: Name=STM_JTMS
+Added Net: Name=STM_RST
+Added Net: Name=T_JTCK
+Added Net: Name=T_JTDI
+Added Net: Name=T_JTDO
+Added Net: Name=T_JTMS
+Added Net: Name=T_NRST
+Added Net: Name=T_SWDIO_IN
+Added Net: Name=T_SWO
+Added Net: Name=U5V
+Added Net: Name=USB_DM
+Added Net: Name=USB_DP
+Added Net: Name=USB_RENUMN
+Added Net: Name=VBAT/VLCD
+Added Net: Name=VDD
+Added Net: Name=VIN
+Added Class: Name=Designator
+Added Class: Name=PA[0..15]
+Added Class: Name=PB[0..15]
+Added Class: Name=PC[0..15]
+Added Class: Name=PF[0..7]

@@ -1,0 +1,308 @@
+(edif Design_TOP_SchDoc
+  (edifVersion 2 0 0)
+  (edifLevel 0)
+  (keywordMap
+     (keywordLevel 0)
+  )
+  (status
+    (written
+      (timeStamp 2021 5 11 22 40 29)
+      (program "CircuitStudio - EDIF For PCB"
+        (version "1.0.0")
+      )
+      (author "EDIF For PCB")
+    )
+  )
+
+  (library COMPONENT_LIB
+    (edifLevel 0)
+    (technology
+      (numberDefinition
+        (scale  1  1  (unit  distance))
+      )
+    )
+  )
+  (library SHEET_LIB
+    (edifLevel 0)
+    (technology
+      (numberDefinition
+        (scale  1  1  (unit  distance))
+      )
+    )
+    (cell TOP_SchDoc
+      (cellType generic)
+      (view netListView
+        (viewType netlist)
+        (interface
+        )
+        (contents
+          (Net BOOT0
+            (Joined 
+            )
+          )
+          (Net MCO
+            (Joined 
+            )
+          )
+          (Net NRST
+            (Joined 
+            )
+          )
+          (Net PD2
+            (Joined 
+            )
+          )
+          (Net PD8
+            (Joined 
+            )
+          )
+          (Net PWR_ENN
+            (Joined 
+            )
+          )
+          (Net STLK_RX
+            (Joined 
+            )
+          )
+          (Net STLK_TX
+            (Joined 
+            )
+          )
+          (Net SWO
+            (Joined 
+            )
+          )
+          (Net TCK
+            (Joined 
+            )
+          )
+          (Net TMS
+            (Joined 
+            )
+          )
+          (Net PA0
+            (Joined 
+            )
+          )
+          (Net PA1
+            (Joined 
+            )
+          )
+          (Net PA2
+            (Joined 
+            )
+          )
+          (Net PA3
+            (Joined 
+            )
+          )
+          (Net PA4
+            (Joined 
+            )
+          )
+          (Net PA5
+            (Joined 
+            )
+          )
+          (Net PA6
+            (Joined 
+            )
+          )
+          (Net PA7
+            (Joined 
+            )
+          )
+          (Net PA8
+            (Joined 
+            )
+          )
+          (Net PA9
+            (Joined 
+            )
+          )
+          (Net PA10
+            (Joined 
+            )
+          )
+          (Net PA11
+            (Joined 
+            )
+          )
+          (Net PA12
+            (Joined 
+            )
+          )
+          (Net PA13
+            (Joined 
+            )
+          )
+          (Net PA14
+            (Joined 
+            )
+          )
+          (Net PA15
+            (Joined 
+            )
+          )
+          (Net PB0
+            (Joined 
+            )
+          )
+          (Net PB1
+            (Joined 
+            )
+          )
+          (Net PB2
+            (Joined 
+            )
+          )
+          (Net PB3
+            (Joined 
+            )
+          )
+          (Net PB4
+            (Joined 
+            )
+          )
+          (Net PB5
+            (Joined 
+            )
+          )
+          (Net PB6
+            (Joined 
+            )
+          )
+          (Net PB7
+            (Joined 
+            )
+          )
+          (Net PB8
+            (Joined 
+            )
+          )
+          (Net PB9
+            (Joined 
+            )
+          )
+          (Net PB10
+            (Joined 
+            )
+          )
+          (Net PB11
+            (Joined 
+            )
+          )
+          (Net PB12
+            (Joined 
+            )
+          )
+          (Net PB13
+            (Joined 
+            )
+          )
+          (Net PB14
+            (Joined 
+            )
+          )
+          (Net PB15
+            (Joined 
+            )
+          )
+          (Net PC0
+            (Joined 
+            )
+          )
+          (Net PC1
+            (Joined 
+            )
+          )
+          (Net PC2
+            (Joined 
+            )
+          )
+          (Net PC3
+            (Joined 
+            )
+          )
+          (Net PC4
+            (Joined 
+            )
+          )
+          (Net PC5
+            (Joined 
+            )
+          )
+          (Net PC6
+            (Joined 
+            )
+          )
+          (Net PC7
+            (Joined 
+            )
+          )
+          (Net PC8
+            (Joined 
+            )
+          )
+          (Net PC9
+            (Joined 
+            )
+          )
+          (Net PC10
+            (Joined 
+            )
+          )
+          (Net PC11
+            (Joined 
+            )
+          )
+          (Net PC12
+            (Joined 
+            )
+          )
+          (Net PC13
+            (Joined 
+            )
+          )
+          (Net PC14
+            (Joined 
+            )
+          )
+          (Net PC15
+            (Joined 
+            )
+          )
+          (Net PF0
+            (Joined 
+            )
+          )
+          (Net PF1
+            (Joined 
+            )
+          )
+          (Net PF4
+            (Joined 
+            )
+          )
+          (Net PF5
+            (Joined 
+            )
+          )
+          (Net PF6
+            (Joined 
+            )
+          )
+          (Net PF7
+            (Joined 
+            )
+          )
+       )
+     )
+   )
+  )
+  (design Design_TOP_SchDoc
+    (cellRef TOP_SchDoc
+      (libraryRef SHEET_LIB)
+    )
+  )
+)
